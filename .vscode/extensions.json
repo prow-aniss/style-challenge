@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "codespaces-contrib.codeswing",
+        "vsls-contrib.codetour",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-vsliveshare.vsliveshare",
+        "streetsidesoftware.code-spell-checker",
+        "blackgirlbytes.deploy-to-github-pages"
+    ]
+}
